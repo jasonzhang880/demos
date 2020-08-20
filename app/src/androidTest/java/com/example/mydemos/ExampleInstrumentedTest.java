@@ -1,6 +1,10 @@
 package com.example.mydemos;
 
 import android.content.Context;
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1113363... first commit
 import androidx.test.platform.app.InstrumentationRegistry;
 import androidx.test.ext.junit.runners.AndroidJUnit4;
 
